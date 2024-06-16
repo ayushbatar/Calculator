@@ -1,8 +1,12 @@
-# Calculator
+## :dart: Calculator ## 
 
 A simple calculator web application built with HTML, CSS, and JavaScript.
 
-## Features
+## :eyeglasses: Demo
+
+[View the app in action!](https://ayushbatar-calculator.netlify.app/)
+
+## :sparkles: Features ##
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
 - Clearing the display (AC button)
@@ -12,7 +16,7 @@ A simple calculator web application built with HTML, CSS, and JavaScript.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/calculator.git`
+1. Clone the repository: `git clone https://github.com/ayushbatar/calculator.git`
 2. Open the `index.html` file in a web browser
 
 ## Usage
@@ -22,9 +26,15 @@ A simple calculator web application built with HTML, CSS, and JavaScript.
 3. To delete the last character, click on the "backspace" button.
 4. To perform the calculation, click on the "=" button.
 
-## Contributing
+## :rocket: Technologies ##
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+The following tools were used in this project:
+
+- [JavaScript]
+- [HTML]
+- [CSS]
+
+Made with :heart: by <a href="https://github.com/ayushbatar" target="_blank">Aayush chaudhary</a>
 
 ## License
 
